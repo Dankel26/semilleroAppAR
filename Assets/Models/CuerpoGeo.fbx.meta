@@ -3,7 +3,82 @@ guid: 3ddcf7f6dc3b98144b1dece88242c89f
 ModelImporter:
   serializedVersion: 24200
   internalIDToNameTable: []
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Belly_copy1
+    second: {fileID: 2100000, guid: 6c681b13428ff4a47bc7472ab67a1220, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Biceps_copy1
+    second: {fileID: 2100000, guid: 285ad450d59f81749a1f07ddcb2b5a6c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Chest_copy1
+    second: {fileID: 2100000, guid: ebc28688280ba4047bbf2a41b8c601f8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Coudes
+    second: {fileID: 2100000, guid: e0e7a9eb04a9b9843b358086fee19421, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Foot
+    second: {fileID: 2100000, guid: 2543eab9b6ae8c54eb1343812339300f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Forearm
+    second: {fileID: 2100000, guid: 2d7fd448df39f0c4c83e9dd96092f652, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Hand19
+    second: {fileID: 2100000, guid: 473d2448c75af2643991a43ba6b7ba62, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Head1
+    second: {fileID: 2100000, guid: c865dbce657c167408d9e3ff559cd2ce, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Head2
+    second: {fileID: 2100000, guid: 43b4905492b35be42aaf0798e7d2854c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Hip
+    second: {fileID: 2100000, guid: 149340c099f059d40a284a24a6a1b8dc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Knee
+    second: {fileID: 2100000, guid: 07d29f837b22dc14fa3fed09b3365a21, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Legs_Top
+    second: {fileID: 2100000, guid: 0c5af26540e1c214a975f685fe5e9515, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Legs_bottom
+    second: {fileID: 2100000, guid: 04de26421bb685a41ae60952e40e6867, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Neck_copy1
+    second: {fileID: 2100000, guid: fe7e9a976fe65af498465c6e99d826a4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Shoulders_copy1
+    second: {fileID: 2100000, guid: 8df18a69163996242a93d604db7a3089, type: 2}
   materials:
     materialImportMode: 2
     materialName: 0

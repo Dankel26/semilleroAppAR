@@ -3,7 +3,27 @@ guid: 12afd50a4c3e0434f805c09619db9062
 ModelImporter:
   serializedVersion: 24200
   internalIDToNameTable: []
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Foot
+    second: {fileID: 2100000, guid: 31ab822d918b6294ca926d8b3268e753, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Knee
+    second: {fileID: 2100000, guid: 82e0dd6513d48d24a8883b81dd012a64, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Legs_Top
+    second: {fileID: 2100000, guid: 77d65a99dd3a9b045bf792f4d8e06b8e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Legs_bottom
+    second: {fileID: 2100000, guid: ff1422c9a499cb946a7dc0a402fbc55b, type: 2}
   materials:
     materialImportMode: 2
     materialName: 0

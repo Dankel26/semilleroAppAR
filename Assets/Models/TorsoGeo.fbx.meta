@@ -3,7 +3,22 @@ guid: efbe2544f7003d44b8e245f4a5cf363a
 ModelImporter:
   serializedVersion: 24200
   internalIDToNameTable: []
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Belly_copy1
+    second: {fileID: 2100000, guid: 0d1069bace2f7e647a44c3fe0ce282b0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Chest_copy1
+    second: {fileID: 2100000, guid: 9d7739fc074f81f46af169feab6367f6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Hip
+    second: {fileID: 2100000, guid: 6b0e668bc18559c49b1777ab556a6cdf, type: 2}
   materials:
     materialImportMode: 2
     materialName: 0

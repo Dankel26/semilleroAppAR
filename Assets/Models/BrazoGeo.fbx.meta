@@ -3,7 +3,32 @@ guid: 046ea4b4fd277b844a24fcf3497091a5
 ModelImporter:
   serializedVersion: 24200
   internalIDToNameTable: []
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Biceps_copy1
+    second: {fileID: 2100000, guid: bb1ddd947837cbc48bb3d1e17803ae6f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Coudes
+    second: {fileID: 2100000, guid: 36d0785b90ce5f842851dda81d318408, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Forearm
+    second: {fileID: 2100000, guid: 5c0b47b7e2e187c4b97fc88946f77f8e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Hand19
+    second: {fileID: 2100000, guid: 7ea18dd027fc2624b9f2bd0f192db17a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Shoulders_copy1
+    second: {fileID: 2100000, guid: 1ad84ede62312e94f9e5368e29568bf5, type: 2}
   materials:
     materialImportMode: 2
     materialName: 0
